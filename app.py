@@ -3,7 +3,7 @@ from database import connect_db
 
 print("Starting Enterprise App")
 
-# Hardcoded DB credentials (Security issue)
+# Hardcoded DB credentials (Security hhh issue)
 db = connect_db("root", "root123")
 
 # Hardcoded user credentials (Security issue)
